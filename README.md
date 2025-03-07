@@ -171,7 +171,7 @@ Request body:
 
 ```json
 {
-  "action": "go west",
+  "action": "go west"
 }
 ```
 
